@@ -23,8 +23,7 @@ class Logger():
         if line.rstrip() == "Exit": return line
 
         text += line + "\n"
-        self.f.write(logstring)
-        self.f.write(text)
+        self.f.write(logstring + text)
         return line
 
     def write(self, text):

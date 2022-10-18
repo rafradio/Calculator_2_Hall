@@ -1,6 +1,5 @@
 import logModule
 import inputModule
-import sys
 
 if __name__ == '__main__':
 
@@ -11,7 +10,7 @@ if __name__ == '__main__':
         if 'Exit' == xx.rstrip():
             break
 
-        
+
     # print(xx)
 
     log.stop()
