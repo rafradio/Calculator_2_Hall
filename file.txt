@@ -1,0 +1,3 @@
+Log - Day 18.10.22 Time 21.12.24
+Please input string for calculation: 34 - 12
+
