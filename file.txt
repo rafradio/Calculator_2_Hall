@@ -1,3 +1,24 @@
 Log - Day 18.10.22 Time 21.12.24
 Please input string for calculation: 34 - 12
 
+Log - Day 18.10.22 Time 21.27.17
+Please input string for calculation: 28 -35
+
+Log - Day 18.10.22 Time 21.45.36
+Please input string for calculation: 24 + 34
+
+Log - Day 18.10.22 Time 21.45.42
+Please input string for calculation: 83-28
+
+Log - Day 18.10.22 Time 21.45.48
+Please input string for calculation: Exit
+
+Log - Day 18.10.22 Time 21.48.59
+Please input string for calculation: 26 +94
+
+Log - Day 18.10.22 Time 21.49.06
+Please input string for calculation: Exit
+
+Log - Day 18.10.22 Time 21.50.40
+Please input string for calculation: 38 / 38
+
