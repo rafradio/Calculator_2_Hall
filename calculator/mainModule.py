@@ -1,8 +1,17 @@
 import logModule
 import inputModule
+import sys
 
-log = logModule.Logger()
-xx = inputModule.inputMethod(log)
-print(xx)
+if __name__ == '__main__':
 
-log.stop()
+    log = logModule.Logger()
+    strLine = True
+    while strLine:
+        xx = inputModule.inputMethod(log)
+        if 'Exit' == xx.rstrip():
+            break
+
+        
+    # print(xx)
+
+    log.stop()
