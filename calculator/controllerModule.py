@@ -1,4 +1,5 @@
 import inputModule
+import sys
 
 def controller(objLog):
     strLine = True
@@ -6,3 +7,4 @@ def controller(objLog):
         lineCheck = inputModule.inputMethod(objLog)
         if 'Exit' == lineCheck.rstrip():
             break
+    

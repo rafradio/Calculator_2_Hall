@@ -7,14 +7,16 @@ class Logger():
     def __init__(self):
         self.stdin = sys.stdin
         sys.stdout = self
+        sys.stdin = self
         self.f = open('file.txt', 'a')
 
     def stop(self):
         sys.stdout = self.stdout
-        sys.stdin.close()
+        sys.stdin = self.stdin
+        #sys.stdin.close()
         self.f.close()
         
-    def readline(self, text):
+    def readline(self, text = "Please input string for calculation: "):
         x = datetime.datetime.now()
         logstring = "Log - Day {}.{}.{}".format(x.strftime("%d"), x.strftime("%m"), x.strftime("%y"))
         logstring += " Time {}.{}.{}\n".format(x.strftime("%H"), x.strftime("%M"), x.strftime("%S"))
