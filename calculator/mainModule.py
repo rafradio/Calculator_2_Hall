@@ -1,5 +1,4 @@
 import logModule
-import inputModule
 import controllerModule as controller
 
 if __name__ == '__main__':

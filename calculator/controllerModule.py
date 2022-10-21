@@ -1,5 +1,5 @@
 import inputModule
-import sys
+import calculate
 
 def controller(objLog):
     strLine = True
@@ -7,4 +7,7 @@ def controller(objLog):
         lineCheck = inputModule.inputMethod(objLog)
         if 'Exit' == lineCheck.rstrip():
             break
+        
+        resultString = calculate.calcPrint(lineCheck)
+        print(resultString)
     
