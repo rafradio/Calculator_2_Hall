@@ -5,7 +5,7 @@ def controller(objLog):
     strLine = True
     while strLine:
         lineCheck = inputModule.inputMethod(objLog)
-        if 'Exit' == lineCheck.rstrip():
+        if 'exit' == lineCheck.rstrip().lower():
             break
         
         resultString = calcModule.Calculate(lineCheck)
