@@ -22,3 +22,190 @@ Please input string for calculation: Exit
 Log - Day 18.10.22 Time 21.50.40
 Please input string for calculation: 38 / 38
 
+Log - Day 18.10.22 Time 22.06.38
+Please input string for calculation: 23 + 45
+
+Log - Day 18.10.22 Time 22.07.11
+Please input string for calculation: 11 + 99
+
+Log - Day 19.10.22 Time 10.55.22
+Please input string for calculation: 4567 / 73
+
+Log - Day 19.10.22 Time 11.12.02
+Please input string for calculation: 45 + 56
+
+Log - Day 19.10.22 Time 11.13.35
+Please input string for calculation: 56 + 75
+
+Log - Day 19.10.22 Time 11.17.05
+Please input string for calculation: 789 * 587
+
+Log - Day 19.10.22 Time 11.26.36
+Please input string for calculation: 456 + 345
+
+Log - Day 19.10.22 Time 11.26.55
+Please input string for calculation: 456 + 345
+
+Log - Day 19.10.22 Time 11.27.05
+Please input string for calculation: 
+Log - Day 19.10.22 Time 11.28.51
+Please input string for calculation: ett
+
+Log - Day 19.10.22 Time 11.28.55
+Please input string for calculation: 345 + 712
+
+Log - Day 19.10.22 Time 11.29.04
+Please input string for calculation: 
+Log - Day 19.10.22 Time 11.31.05
+Please input string for calculation: 4567 + 7625
+
+Log - Day 19.10.22 Time 11.31.49
+Please input string for calculation: 45678 / 32
+
+Log - Day 19.10.22 Time 17.46.55
+Please input string for calculation: 546 +752
+
+Log - Day 19.10.22 Time 17.51.43
+Please input string for calculation: 456 + 897
+
+Result: 456 + 897Log - Day 20.10.22 Time 14.40.19
+Please input string for calculation: 3 + 5
+
+Log - Day 20.10.22 Time 14.41.21
+Please input string for calculation: 3 + 5
+
+Log - Day 20.10.22 Time 14.44.10
+Please input string for calculation: 3 + 5
+
+Log - Day 20.10.22 Time 14.44.14
+['Result:3', '+', '5']Log - Day 20.10.22 Time 14.48.29
+Please input string for calculation: 3+5
+
+Log - Day 20.10.22 Time 14.49.48
+Please input string for calculation: 3 + 5
+
+Log - Day 20.10.22 Time 14.51.01
+Please input string for calculation: 10 + 5
+
+Log - Day 20.10.22 Time 14.51.06
+Result is equal: 15Log - Day 20.10.22 Time 14.57.32
+Please input string for calculation: 2**3
+
+Log - Day 20.10.22 Time 14.57.40
+Result is equal: 8Log - Day 20.10.22 Time 14.57.40
+Please input string for calculation: 8/4
+
+Log - Day 20.10.22 Time 14.57.51
+Result is equal: 2.0Log - Day 20.10.22 Time 15.00.28
+Please input string for calculation: 45*7
+
+Log - Day 20.10.22 Time 15.00.33
+Result is equal: 315
+Log - Day 20.10.22 Time 15.00.33
+Please input string for calculation: 9/3
+
+Log - Day 20.10.22 Time 15.00.38
+Result is equal: 3.0
+Log - Day 20.10.22 Time 15.01.12
+Please input string for calculation: 3**3
+
+Log - Day 20.10.22 Time 15.01.22
+Result is equal: 27
+Log - Day 20.10.22 Time 15.01.22
+Please input string for calculation: 10/4
+
+Log - Day 20.10.22 Time 15.01.39
+Result is equal: 2.5
+
+Log - Day 20.10.22 Time 15.06.03Please input string for calculation: 35+67
+
+
+Log - Day 20.10.22 Time 15.06.08Result is equal: 102
+Log - Day 20.10.22 Time 15.07.05
+Please input string for calculation: 56+56
+
+Log - Day 20.10.22 Time 15.07.12
+Result is equal: 112
+Log - Day 20.10.22 Time 15.07.39
+Please input string for calculation: 56+89
+
+Log - Day 20.10.22 Time 15.07.45
+Result is equal: 145
+
+Log - Day 20.10.22 Time 15.10.31
+Please input string for calculation: 45+89
+
+Log - Day 20.10.22 Time 15.10.36
+Result is equal: 134
+
+Log - Day 20.10.22 Time 15.34.16
+Please input string for calculation: 56*89
+
+Log - Day 20.10.22 Time 15.34.22
+Result is equal: 4984
+helo
+Log - Day 21.10.22 Time 10.33.30
+Please input string for calculation: 10**2
+
+Log - Day 21.10.22 Time 10.33.36
+Result is equal: 100
+
+Log - Day 21.10.22 Time 10.34.35
+Please input string for calculation: 10**2
+
+Log - Day 21.10.22 Time 10.34.39
+Result is equal: 100
+
+Log - Day 21.10.22 Time 10.35.30
+Please input string for calculation: 36 / 6
+
+Log - Day 21.10.22 Time 10.35.38
+Result is equal: 6.0
+
+Log - Day 21.10.22 Time 10.35.58
+Please input string for calculation: 10 / 4
+
+Log - Day 21.10.22 Time 10.36.04
+Result is equal: 2.5
+
+Log - Day 21.10.22 Time 19.14.58
+Please input string for calculation: 3 + 2
+
+
+Log - Day 21.10.22 Time 19.16.17
+Please input string for calculation: 56 + 48
+
+
+Log - Day 21.10.22 Time 19.18.19
+Please input string for calculation: 5 + 7
+
+Log - Day 21.10.22 Time 19.18.23
+Result is equal: 12
+
+Log - Day 21.10.22 Time 19.18.51
+Please input string for calculation: 56 * 8
+
+Log - Day 21.10.22 Time 19.18.58
+Result is equal: 448
+Log - Day 21.10.22 Time 19.18.58
+Please input string for calculation: 48 / 8
+
+Log - Day 21.10.22 Time 19.19.09
+Result is equal: 6.0
+Log - Day 21.10.22 Time 19.19.09
+Please input string for calculation: 3 ** 2
+
+Log - Day 21.10.22 Time 19.19.17
+Result is equal: 9
+
+Log - Day 21.10.22 Time 19.20.54
+Please input string for calculation: 56 + 48
+
+Log - Day 21.10.22 Time 19.20.59
+Result is equal: 104
+
+Log - Day 21.10.22 Time 19.29.34
+Please input string for calculation: 3 * 49
+
+Log - Day 21.10.22 Time 19.29.41
+Result is equal: 147
