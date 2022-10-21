@@ -1,5 +1,5 @@
 import inputModule
-import calculate
+import calcModule
 
 def controller(objLog):
     strLine = True
@@ -8,6 +8,7 @@ def controller(objLog):
         if 'Exit' == lineCheck.rstrip():
             break
         
-        resultString = calculate.calcPrint(lineCheck)
+        resultString = calcModule.Calculate(lineCheck)
+        resultString = "Result is equal: " + str(resultString)
         print(resultString)
     
